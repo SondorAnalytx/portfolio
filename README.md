@@ -8,13 +8,13 @@
 
 
 ## Education		        		
-- B.S. in Business Administration | University of Dener (_June 2024_)
+- B.S. in Business Administration | University of Denver (_June 2024_)
 
 ## Projects
 ### Client Sentiment & Market Volatility Dashboard — Capstone with Charles Schwab
 
+[![View Presentation](presentations/Capstone_Schwab_Thumbnail.png)](presentations/Capstone_Schwab_Sondor.pdf)
 
-
-## Healthcare Utilization Analytics & Quality Improvement — DaVita Case Study
+### Healthcare Utilization Analytics & Quality Improvement — DaVita Case Study
 
 [![View Presentation](presentations/DaVita_Case_Thumbnail.png)](presentations/DaVita_Case_Study_Sondor.pdf)
