@@ -1,5 +1,6 @@
 # Data Analyst
 
+## Skills
 #### Programming Languages & Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), R, VBA, SQL
 #### Data Visualization & BI Tools: Tableau, Power BI, Excel (Pivot Tables, VLOOKUP), Visual Studio
 #### Database Management: MySQL, MS SQL Server
@@ -9,6 +10,7 @@
 
 ## Education		        		
 - B.S. in Business Administration | University of Denver (_June 2024_)
+
 
 ## Projects
 ### Client Sentiment & Market Volatility Slide Deck — Capstone with Charles Schwab
